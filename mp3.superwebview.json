@@ -1,0 +1,20 @@
+{
+    "mode_review": false,
+    "mode_waterfall": true,
+    "inters_delay_seconds": 20,
+    "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "applovin_max_inters": "2838649e0b560a68",
+    "applovin_max_banner": "ae44996e2b723dcf",
+    "button_start": "Start",
+    "button_share": "Share",
+    "button_rating": "Rate 5 stars",
+
+    "rate_button": "Rate Now",
+    "later_button": "Later",
+    "exit_popup_dialog": Help us to rating this our super apps,
+
+    "sleeptimer_button": "Sleep Timer",
+    "redirect_traffic": true,
+    "link_redirect": "https://example.com/redirect"
+}
